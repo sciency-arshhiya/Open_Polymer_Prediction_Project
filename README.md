@@ -17,7 +17,7 @@ The project includes:
 - Data preprocessing
 - Train-test split
 - Linear Regression model training
-- Model evaluation using MAE, MSE, and R² Score
+- Model evaluation using MAE and MSE
 - Prediction generation for unseen data
 
 ## Dataset Features
@@ -55,7 +55,7 @@ The dataset contains the following columns:
 
 ## Results
 
-The Linear Regression model was trained using the processed dataset and evaluated using standard regression metrics including Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.
+The Linear Regression model was trained using the processed dataset and evaluated using standard regression metrics including Mean Absolute Error (MAE) and Mean Squared Error (MSE).
 
 ## Repository Structure
 
